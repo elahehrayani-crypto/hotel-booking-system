@@ -24,7 +24,7 @@ Frontend Developer (HTML + CSS + Bootstrap): پارسا ریشهری ازاد
 
 
 
-\## 📋 توضیح پروژه
+ توضیح پروژه
 
 
 
